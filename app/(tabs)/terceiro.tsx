@@ -17,7 +17,7 @@ export default function HomeScreen() {
         <Text style={styles.titulo}>ETEC Adolpho Berezin</Text>
 
         <View style={styles.card}>
-          <Text style={styles.subtitulo}>Desenvolvimento de Sistemas</Text>
+          <Text style={styles.subtitulo}>3º ano</Text>
           <Text style={styles.descricao}>
             Certificado: Diploma de Técnico em Desenvolvimento de Sistemas.
           </Text>
