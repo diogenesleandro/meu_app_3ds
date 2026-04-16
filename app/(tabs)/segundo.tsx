@@ -17,9 +17,10 @@ export default function HomeScreen() {
         <Text style={styles.titulo}>ETEC Adolpho Berezin</Text>
 
         <View style={styles.card}>
-          <Text style={styles.subtitulo}>Desenvolvimento de Sistemas</Text>
+          <Text style={styles.subtitulo}>2º ano</Text>
           <Text style={styles.descricao}>
-            Curso completo para desenvolvedores desktop, web e mobile
+            Certificado: Qualificação Técnica de Nível Médio de Programador de
+            Computadores.
           </Text>
         </View>
 

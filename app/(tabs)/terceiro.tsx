@@ -19,7 +19,7 @@ export default function HomeScreen() {
         <View style={styles.card}>
           <Text style={styles.subtitulo}>Desenvolvimento de Sistemas</Text>
           <Text style={styles.descricao}>
-            Curso completo para desenvolvedores desktop, web e mobile
+            Certificado: Diploma de Técnico em Desenvolvimento de Sistemas.
           </Text>
         </View>
 
